@@ -32,6 +32,11 @@
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
 }
 
+.chat-area{
+  background-color: red;
+  
+}
+
 .input-area {
   width: 40%;
   height: 80px;
