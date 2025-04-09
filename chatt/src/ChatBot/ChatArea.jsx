@@ -14,7 +14,7 @@ const ChatArea=({history,SetMessage})=>{
         
     }
     return(
-        <div className="chat-area">
+        <div >
             <ChatLog history={history}/>
             <InputArea SetMessage={SetMessage} />
             

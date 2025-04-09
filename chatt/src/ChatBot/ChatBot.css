@@ -32,9 +32,8 @@
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
 }
 
-.chat-area{
-  background-color: red;
-  
+.chat-area {
+  background-color: rgb(139, 0, 0);
 }
 
 .input-area {
@@ -55,7 +54,7 @@
   bottom: calc(20px + 20%);
   left: calc(257px + 20%);
   height: 70vh;
-  border-color: brown;
+  border-color: rgb(17, 30, 132);
 }
 
 .welcome {
